@@ -1,0 +1,15 @@
+.job-censor-anim {
+  display: inline-block;
+  background: linear-gradient(90deg, #a855f7 0%, #38bdf8 100%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: shimmer 1.5s infinite linear;
+  border-radius: 4px;
+  position: relative;
+}
+@keyframes shimmer {
+  0% { filter: brightness(1.2) drop-shadow(0 0 2px #a855f7); }
+  50% { filter: brightness(2) drop-shadow(0 0 8px #38bdf8); }
+  100% { filter: brightness(1.2) drop-shadow(0 0 2px #a855f7); }
+} 
