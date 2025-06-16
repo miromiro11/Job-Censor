@@ -5,6 +5,17 @@
 
 ---
 
+## 🖼️ Before & After
+
+| **Before** | **After** |
+|:--:|:--:|
+| ![Before](./images/before.png) | ![After](./images/after.png) |
+
+> *Left: A Google search for “software engineering job”.  
+> Right: Same search, but Job Censor working overtime to protect your soul.*
+
+---
+
 ## ❌ What is this?
 
 Tired of LinkedIn trauma? Sick of unsolicited career advice?  
@@ -17,7 +28,7 @@ Built for those who do **not** dream of labor.
 
 ## 🧠 Features
 
-Job Censor uses ✨ advanced ✨ find-and-replace to brainrot your browsing experience:
+Job Censor uses ✨ advanced ✨ find-and-replace to scramble your browsing experience:
 
 - `job` → `j*b`
 - `work` → `w*rk`
@@ -31,8 +42,8 @@ Want to add more? You totally can. But also: why are you trying so hard?
 
 ## 🛠️ Built With
 
-- [**Plasmo**](https://docs.plasmo.com/) – for modern browser extension tooling
-- JavaScript, HTML, vibes
+- [**Plasmo**](https://docs.plasmo.com/) – for modern browser extension tooling  
+- JavaScript, HTML, vibes  
 - Zero ambition
 
 ---
@@ -49,7 +60,7 @@ Want to add more? You totally can. But also: why are you trying so hard?
 ### 🧪 Local Setup
 
 ```bash
-git clone https://github.com/yourusername/Job Censor.git
-cd Job Censor
+git clone https://github.com/yourusername/job-censor.git
+cd job-censor
 pnpm install
 pnpm build
