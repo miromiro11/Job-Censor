@@ -12,7 +12,21 @@
 | ![Before](./images/before.png) | ![After](./images/after.png) |
 
 > *Left: A Google search for “software engineering job”.  
-> Right: Same search, but Job Censor working overtime to protect your soul.*
+> Right: Same search, but Job Censor is on the front lines keeping your peace intact.*
+
+---
+
+## 🔒 Extension Popup
+
+Here’s what it looks like when Job Censor is working overtime to protect your fragile sanity:
+
+<p align="center">
+  <img src="./images/popup.png" width="300" alt="Job Censor Popup">
+</p>
+
+> 🛡️ Anti-Work Shield enabled.  
+> 💪 1133 corporate buzzwords obliterated.  
+> 🧘 Mental health? Protected.
 
 ---
 
