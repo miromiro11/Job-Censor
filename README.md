@@ -1,74 +1,55 @@
-# 🧠 jobFilter – The Anti-Employment Browser Extension
+# 🧠 Job Censor – The Anti-Employment Browser Extension
 
 > Censors the most cursed terms on the internet:  
 > **job**, **salary**, **work**, **application** – GONE. Banished. Vaporized.
 
+---
+
 ## ❌ What is this?
 
-Tired of LinkedIn trauma? Sick of career advice? Hate seeing the word `j*b` on your screen?
+Tired of LinkedIn trauma? Sick of unsolicited career advice?  
+Seeing the word `job` in the wild is a violation.  
+So we made **Job Censor** – a browser extension that automatically censors the worst of corporate vocabulary.
 
-**jobFilter** is the Chrome/Firefox extension nobody asked for —  
-a brainrot-coded defense system that **automatically censors corporate buzzwords** from websites so you can browse in peace 🕊️
+Built for those who do **not** dream of labor.
 
 ---
 
-## 🔒 Protected Terms
+## 🧠 Features
 
-By default, this extension will censor the following career threats:
+Job Censor uses ✨ advanced ✨ find-and-replace to brainrot your browsing experience:
+
 - `job` → `j*b`
 - `work` → `w*rk`
 - `salary` → `s****y`
 - `application` → `applic*tion`
-- `career`, `position`, `resume`, `hiring`, `interview`, and more...
+- `hiring`, `resume`, `position`, `career`, etc... → obliterated
 
-Want to add your own? You can. But why are you trying so hard? It’s a joke.
-
----
-
-## 🧩 How it works
-
-1. Injects a content script into every page.
-2. Finds cursed words.
-3. Replaces them with censored, meme-safe versions.
-4. Profit (emotionally, not financially obviously).
+Want to add more? You totally can. But also: why are you trying so hard?
 
 ---
 
-## 🖼️ What it looks like
+## 🛠️ Built With
 
-Before:  
-> “Exciting new **job opportunity** with competitive **salary**!”
-
-After:  
-> “Exciting new **j\*b opportunity** with competitive **s\*\*\*y**!”
+- [**Plasmo**](https://docs.plasmo.com/) – for modern browser extension tooling
+- JavaScript, HTML, vibes
+- Zero ambition
 
 ---
 
-## 📦 Install
+## 📦 Installation
 
-1. Clone this repo  
-2. Load unpacked extension in your browser  
-   - Chrome: `chrome://extensions/` → Developer Mode → Load Unpacked  
-   - Firefox: Use `about:debugging` (you absolute legend)
+### 🔧 Prerequisites
 
----
-
-## ⚠️ Disclaimer
-
-This is a joke. A troll. A meme.  
-Do not use this if you're actually job hunting.  
-Or do. I'm not your manager.
+- [Node.js](https://nodejs.org/) **v18 or higher**
+- [`pnpm`](https://pnpm.io) (or `npm`, if you're feeling chaotic)
 
 ---
 
-## 🧠 Made for the Brainrot Generation
+### 🧪 Local Setup
 
-jobFilter is part of a movement.  
-We do not dream of labor.  
-We dream of a feed where `j*b` is the most work we’ll see today.
-
----
-
-## 📄 License
-
-MIT – meme it forward ✨
+```bash
+git clone https://github.com/yourusername/Job Censor.git
+cd Job Censor
+pnpm install
+pnpm build
